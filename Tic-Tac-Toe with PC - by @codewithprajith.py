@@ -1,3 +1,5 @@
+#follow @codewithprajith for more projects
+
 from tkinter import *
 from tkinter import messagebox as MSG
 from PIL import Image, ImageTk
@@ -17,6 +19,9 @@ def WithPc():
     image1 = Image.open('tic-tac-toe.png')
     test = ImageTk.PhotoImage(image1)
 
+    #follow @codewithprajith for more projects
+
+    
     Label(image= test, bg="#CAFAFE").place(x=370, y=10)
 
     # bcoz O is start
@@ -248,6 +253,9 @@ def WithPc():
         b7.grid(row=2, column=0)
         b8.grid(row=2, column=1)
         b9.grid(row=2, column=2)
+        
+        #follow @codewithprajith for more projects
+
 
     reset()
     # reset button
@@ -264,3 +272,5 @@ def WithPc():
 
     root1.mainloop()
 WithPc()
+
+#follow @codewithprajith for more projects
