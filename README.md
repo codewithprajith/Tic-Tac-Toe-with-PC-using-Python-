@@ -1,2 +1,1 @@
-# Tic-Tac-Toe-with-PC-using-Python-
-Play Tic Tac Toe with your PC using Python GUI  -- by @prajithkumar-coder
+Play Tic Tac Toe with your computer/laptop using Python -- support @codewithprajith for more codes
